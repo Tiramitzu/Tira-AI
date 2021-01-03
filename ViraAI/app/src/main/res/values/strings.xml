@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vira AI</string>
+    <string name="device_admin">Vira AI - Device Admin</string>
+    <string name="device_admin_description">Give Vira AI some permission to do something like "Vira lock the screen"</string>
+    <string name="turn_on_the_speech_recognition">Turn on the speech recognition</string>
+    <string name="enable_dark_theme">Enable Dark Theme</string>
+    <string name="disable_dark_theme">Disable Dark Theme</string>
+    <string name="enable_dark_mode">Enable Dark Mode</string>
+    <string name="vira_ai_by_tiramitzu">Vira AI - By Tiramitzu</string>
+</resources>
